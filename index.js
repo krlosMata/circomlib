@@ -6,4 +6,5 @@ exports.babyJub = require("./src/babyjub");
 exports.pedersenHash = require("./src/pedersenHash");
 exports.SMT = require("./src/smt").SMT;
 exports.SMTMemDB = require("./src/smt_memdb");
+exports.SMTLevelDB = require("./src/smt_leveldb");
 exports.poseidon = require("./src/poseidon");
